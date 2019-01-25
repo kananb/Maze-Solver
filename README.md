@@ -1,5 +1,5 @@
 # PNG-Maze-Solver
-A maze solving algorithm written in Java to solve mazes saved with the .png format
+A maze solving algorithm written in Java to solve mazes saved with the .png/jpg format
 
 
 To create a maze for this application you can use your favorite photo editing program (like MS Paint). Mark the beginning of the maze with blue and the end of the maze with red. The walls should be black and all other colors are disregarded.
